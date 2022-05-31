@@ -1,2 +1,7 @@
 Archivo code2.txt
+<<<<<<< HEAD
 Cambios desde local
+=======
+
+blablabla
+>>>>>>> ac585037e1e4c1e316211d829b50109c8ab974ee
